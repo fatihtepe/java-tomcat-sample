@@ -5,7 +5,7 @@
 
    <h3> THANK YOU.... </h3>
   
-    <h3> GRACIAS.... </h3>
+    <h3> final.... </h3>
    <h3> you are the best.... </h3>
    
    <h3>fatihtepe</h3>
